@@ -4,10 +4,6 @@
     "code": "RP-001",
     "rarity": "P",
     "name": "Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/RP-001.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/RP-001.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -27,10 +23,6 @@
     "code": "RP-004",
     "rarity": "P",
     "name": "Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/RP-004.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/RP-004.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -50,10 +42,6 @@
     "code": "EXBP-001",
     "rarity": "P",
     "name": "EX Base",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/EXBP-001.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/EXBP-001.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -73,10 +61,6 @@
     "code": "EXBP-002",
     "rarity": "P",
     "name": "EX Base",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/EXBP-002.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/EXBP-002.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -96,10 +80,6 @@
     "code": "EXRP-001",
     "rarity": "P",
     "name": "EX Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/EXRP-001.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/EXRP-001.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -119,10 +99,6 @@
     "code": "EXRP-002",
     "rarity": "P",
     "name": "EX Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/EXRP-002.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/EXRP-002.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -142,10 +118,6 @@
     "code": "RP-009",
     "rarity": "P",
     "name": "Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/RP-009.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/RP-009.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
