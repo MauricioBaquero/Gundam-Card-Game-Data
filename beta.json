@@ -21,7 +21,7 @@
   {
     "id": "ST01-001-p1",
     "code": "ST01-001-p1",
-    "rarity": "LR                +",
+    "rarity": "LR+",
     "name": "Gundam",
     "level": "4",
     "cost": "3",
@@ -154,7 +154,7 @@
   {
     "id": "ST01-011-p1",
     "code": "ST01-011-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Suletta Mercury",
     "level": "4",
     "cost": "1",
@@ -268,7 +268,7 @@
   {
     "id": "ST02-001-p1",
     "code": "ST02-001-p1",
-    "rarity": "LR                +",
+    "rarity": "LR+",
     "name": "Wing Gundam",
     "level": "6",
     "cost": "4",
@@ -458,7 +458,7 @@
   {
     "id": "ST03-011-p1",
     "code": "ST03-011-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Char Aznable",
     "level": "3",
     "cost": "1",
@@ -515,7 +515,7 @@
   {
     "id": "ST04-001-p1",
     "code": "ST04-001-p1",
-    "rarity": "LR                +",
+    "rarity": "LR+",
     "name": "Aile Strike Gundam",
     "level": "5",
     "cost": "4",
@@ -648,7 +648,7 @@
   {
     "id": "GD01-004-p1",
     "code": "GD01-004-p1",
-    "rarity": "R                +",
+    "rarity": "R+",
     "name": "Guncannon",
     "level": "3",
     "cost": "2",
@@ -838,7 +838,7 @@
   {
     "id": "GD01-026-p1",
     "code": "GD01-026-p1",
-    "rarity": "R                +",
+    "rarity": "R+",
     "name": "Char's Zaku Ⅱ",
     "level": "3",
     "cost": "2",
@@ -1009,7 +1009,7 @@
   {
     "id": "GD01-070-p1",
     "code": "GD01-070-p1",
-    "rarity": "R                +",
+    "rarity": "R+",
     "name": "Gundam Aerial",
     "level": "5",
     "cost": "3",
@@ -1142,7 +1142,7 @@
   {
     "id": "GD01-088-p1",
     "code": "GD01-088-p1",
-    "rarity": "U                +",
+    "rarity": "U+",
     "name": "Banagher Links",
     "level": "5",
     "cost": "1",
@@ -1256,7 +1256,7 @@
   {
     "id": "GD01-100-p1",
     "code": "GD01-100-p1",
-    "rarity": "U                +",
+    "rarity": "U+",
     "name": "A Show of Resolve",
     "level": "4",
     "cost": "3",
@@ -1313,7 +1313,7 @@
   {
     "id": "GD01-107-p1",
     "code": "GD01-107-p1",
-    "rarity": "U                +",
+    "rarity": "U+",
     "name": "First Contact",
     "level": "3",
     "cost": "3",
@@ -1370,7 +1370,7 @@
   {
     "id": "GD01-118-p1",
     "code": "GD01-118-p1",
-    "rarity": "U                +",
+    "rarity": "U+",
     "name": "Overflowing Affection",
     "level": "2",
     "cost": "1",
@@ -1522,7 +1522,7 @@
   {
     "id": "R-001-p1",
     "code": "R-001-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Resource",
     "level": "-",
     "cost": "-",
