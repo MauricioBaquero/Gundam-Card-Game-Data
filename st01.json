@@ -21,7 +21,7 @@
   {
     "id": "ST01-001-p1",
     "code": "ST01-001-p1",
-    "rarity": "LR                +",
+    "rarity": "LR+",
     "name": "Gundam",
     "level": "4",
     "cost": "3",
@@ -59,7 +59,7 @@
   {
     "id": "ST01-002-p1",
     "code": "ST01-002-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Gundam (MA Form)",
     "level": "5",
     "cost": "3",
@@ -97,7 +97,7 @@
   {
     "id": "ST01-003-p1",
     "code": "ST01-003-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Guncannon",
     "level": "3",
     "cost": "2",
@@ -135,7 +135,7 @@
   {
     "id": "ST01-004-p1",
     "code": "ST01-004-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Guntank",
     "level": "3",
     "cost": "2",
@@ -173,7 +173,7 @@
   {
     "id": "ST01-005-p1",
     "code": "ST01-005-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "GM",
     "level": "2",
     "cost": "1",
@@ -211,7 +211,7 @@
   {
     "id": "ST01-006-p1",
     "code": "ST01-006-p1",
-    "rarity": "LR                +",
+    "rarity": "LR+",
     "name": "Gundam Aerial (Permet Score Six)",
     "level": "5",
     "cost": "4",
@@ -249,7 +249,7 @@
   {
     "id": "ST01-007-p1",
     "code": "ST01-007-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Gundam Aerial (Bit on Form)",
     "level": "4",
     "cost": "2",
@@ -287,7 +287,7 @@
   {
     "id": "ST01-008-p1",
     "code": "ST01-008-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Demi Trainer",
     "level": "1",
     "cost": "1",
@@ -325,7 +325,7 @@
   {
     "id": "ST01-009-p1",
     "code": "ST01-009-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Zowort",
     "level": "2",
     "cost": "2",
@@ -363,7 +363,7 @@
   {
     "id": "ST01-010-p1",
     "code": "ST01-010-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Amuro Ray",
     "level": "4",
     "cost": "1",
@@ -401,7 +401,7 @@
   {
     "id": "ST01-011-p1",
     "code": "ST01-011-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Suletta Mercury",
     "level": "4",
     "cost": "1",
@@ -439,7 +439,7 @@
   {
     "id": "ST01-012-p1",
     "code": "ST01-012-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Thoroughly Damaged",
     "level": "2",
     "cost": "1",
@@ -477,7 +477,7 @@
   {
     "id": "ST01-013-p1",
     "code": "ST01-013-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Kai's Resolve",
     "level": "3",
     "cost": "1",
@@ -515,7 +515,7 @@
   {
     "id": "ST01-014-p1",
     "code": "ST01-014-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Unforeseen Incident",
     "level": "3",
     "cost": "1",
@@ -553,7 +553,7 @@
   {
     "id": "ST01-015-p1",
     "code": "ST01-015-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "White Base",
     "level": "3",
     "cost": "2",
@@ -591,7 +591,7 @@
   {
     "id": "ST01-016-p1",
     "code": "ST01-016-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Asticassia School of Technology, Earth House",
     "level": "2",
     "cost": "1",
