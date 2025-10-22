@@ -4,10 +4,6 @@
     "code": "ST03-001",
     "rarity": "LR",
     "name": "Sinanju",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-001.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-001.webp?250711"
-    },
     "level": "6",
     "cost": "5",
     "color": "Red",
@@ -27,10 +23,6 @@
     "code": "ST03-001-p1",
     "rarity": "LR                +",
     "name": "Sinanju",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-001_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-001_p1.webp?250711"
-    },
     "level": "6",
     "cost": "5",
     "color": "Red",
@@ -50,10 +42,6 @@
     "code": "ST03-002",
     "rarity": "C",
     "name": "Angelo's Geara Zulu",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-002.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-002.webp?250711"
-    },
     "level": "4",
     "cost": "3",
     "color": "Red",
@@ -73,10 +61,6 @@
     "code": "ST03-002-p1",
     "rarity": "C                +",
     "name": "Angelo's Geara Zulu",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-002_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-002_p1.webp?250711"
-    },
     "level": "4",
     "cost": "3",
     "color": "Red",
@@ -96,10 +80,6 @@
     "code": "ST03-003",
     "rarity": "C",
     "name": "Geara Zulu",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-003.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-003.webp?250711"
-    },
     "level": "3",
     "cost": "2",
     "color": "Red",
@@ -119,10 +99,6 @@
     "code": "ST03-003-p1",
     "rarity": "C                +",
     "name": "Geara Zulu",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-003_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-003_p1.webp?250711"
-    },
     "level": "3",
     "cost": "2",
     "color": "Red",
@@ -142,10 +118,6 @@
     "code": "ST03-004",
     "rarity": "C",
     "name": "Gaza D (Sleeves)",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-004.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-004.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Red",
@@ -165,10 +137,6 @@
     "code": "ST03-004-p1",
     "rarity": "C                +",
     "name": "Gaza D (Sleeves)",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-004_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-004_p1.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Red",
@@ -188,10 +156,6 @@
     "code": "ST03-005",
     "rarity": "C",
     "name": "Dra-C (Sleeves)",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-005.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-005.webp?250711"
-    },
     "level": "1",
     "cost": "1",
     "color": "Red",
@@ -211,10 +175,6 @@
     "code": "ST03-005-p1",
     "rarity": "C                +",
     "name": "Dra-C (Sleeves)",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-005_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-005_p1.webp?250711"
-    },
     "level": "1",
     "cost": "1",
     "color": "Red",
@@ -234,10 +194,6 @@
     "code": "ST03-006",
     "rarity": "LR",
     "name": "Char's Zaku Ⅱ",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-006.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-006.webp?250711"
-    },
     "level": "3",
     "cost": "2",
     "color": "Green",
@@ -257,10 +213,6 @@
     "code": "ST03-006-p1",
     "rarity": "LR                +",
     "name": "Char's Zaku Ⅱ",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-006_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-006_p1.webp?250711"
-    },
     "level": "3",
     "cost": "2",
     "color": "Green",
@@ -280,10 +232,6 @@
     "code": "ST03-007",
     "rarity": "C",
     "name": "Zaku Ⅰ",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-007.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-007.webp?250711"
-    },
     "level": "1",
     "cost": "1",
     "color": "Green",
@@ -303,10 +251,6 @@
     "code": "ST03-007-p1",
     "rarity": "C                +",
     "name": "Zaku Ⅰ",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-007_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-007_p1.webp?250711"
-    },
     "level": "1",
     "cost": "1",
     "color": "Green",
@@ -326,10 +270,6 @@
     "code": "ST03-008",
     "rarity": "C",
     "name": "Zaku Ⅱ",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-008.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-008.webp?250711"
-    },
     "level": "2",
     "cost": "1",
     "color": "Green",
@@ -349,10 +289,6 @@
     "code": "ST03-008-p1",
     "rarity": "C                +",
     "name": "Zaku Ⅱ",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-008_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-008_p1.webp?250711"
-    },
     "level": "2",
     "cost": "1",
     "color": "Green",
@@ -372,10 +308,6 @@
     "code": "ST03-009",
     "rarity": "C",
     "name": "Gouf",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-009.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-009.webp?250711"
-    },
     "level": "3",
     "cost": "3",
     "color": "Green",
@@ -395,10 +327,6 @@
     "code": "ST03-009-p1",
     "rarity": "C                +",
     "name": "Gouf",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-009_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-009_p1.webp?250711"
-    },
     "level": "3",
     "cost": "3",
     "color": "Green",
@@ -418,10 +346,6 @@
     "code": "ST03-010",
     "rarity": "C",
     "name": "Full Frontal",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-010.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-010.webp?250711"
-    },
     "level": "6",
     "cost": "1",
     "color": "Red",
@@ -441,10 +365,6 @@
     "code": "ST03-010-p1",
     "rarity": "C                +",
     "name": "Full Frontal",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-010_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-010_p1.webp?250711"
-    },
     "level": "6",
     "cost": "1",
     "color": "Red",
@@ -464,10 +384,6 @@
     "code": "ST03-011",
     "rarity": "C",
     "name": "Char Aznable",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-011.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-011.webp?250711"
-    },
     "level": "3",
     "cost": "1",
     "color": "Green",
@@ -487,10 +403,6 @@
     "code": "ST03-011-p1",
     "rarity": "C                +",
     "name": "Char Aznable",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-011_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-011_p1.webp?250711"
-    },
     "level": "3",
     "cost": "1",
     "color": "Green",
@@ -510,10 +422,6 @@
     "code": "ST03-012",
     "rarity": "C",
     "name": "Indignation",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-012.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-012.webp?250711"
-    },
     "level": "2",
     "cost": "1",
     "color": "Red",
@@ -533,10 +441,6 @@
     "code": "ST03-012-p1",
     "rarity": "C                +",
     "name": "Indignation",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-012_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-012_p1.webp?250711"
-    },
     "level": "2",
     "cost": "1",
     "color": "Red",
@@ -556,10 +460,6 @@
     "code": "ST03-013",
     "rarity": "C",
     "name": "Close Combat",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-013.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-013.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Red",
@@ -579,10 +479,6 @@
     "code": "ST03-013-p1",
     "rarity": "C                +",
     "name": "Close Combat",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-013_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-013_p1.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Red",
@@ -602,10 +498,6 @@
     "code": "ST03-014",
     "rarity": "C",
     "name": "The Blue Giant",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-014.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-014.webp?250711"
-    },
     "level": "4",
     "cost": "1",
     "color": "Green",
@@ -625,10 +517,6 @@
     "code": "ST03-014-p1",
     "rarity": "C                +",
     "name": "The Blue Giant",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-014_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-014_p1.webp?250711"
-    },
     "level": "4",
     "cost": "1",
     "color": "Green",
@@ -648,10 +536,6 @@
     "code": "ST03-015",
     "rarity": "C",
     "name": "Rewloola",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-015.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-015.webp?250711"
-    },
     "level": "3",
     "cost": "2",
     "color": "Red",
@@ -671,10 +555,6 @@
     "code": "ST03-015-p1",
     "rarity": "C                +",
     "name": "Rewloola",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-015_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-015_p1.webp?250711"
-    },
     "level": "3",
     "cost": "2",
     "color": "Red",
@@ -694,10 +574,6 @@
     "code": "ST03-016",
     "rarity": "C",
     "name": "Falmel",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-016.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-016.webp?250711"
-    },
     "level": "3",
     "cost": "2",
     "color": "Green",
@@ -717,10 +593,6 @@
     "code": "ST03-016-p1",
     "rarity": "C                +",
     "name": "Falmel",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST03-016_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST03-016_p1.webp?250711"
-    },
     "level": "3",
     "cost": "2",
     "color": "Green",
@@ -740,10 +612,6 @@
     "code": "T-006",
     "rarity": "C",
     "name": "Char's Zaku Ⅱ",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/T-006.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/T-006.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -763,10 +631,6 @@
     "code": "T-007",
     "rarity": "C",
     "name": "Zaku Ⅱ",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/T-007.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/T-007.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -786,10 +650,6 @@
     "code": "R-001-p2",
     "rarity": "C",
     "name": "Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/R-001_p2.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/R-001_p2.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -809,10 +669,6 @@
     "code": "EXB-001-p2",
     "rarity": "C",
     "name": "EX Base",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/EXB-001_p2.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/EXB-001_p2.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -832,10 +688,6 @@
     "code": "EXR-001-p2",
     "rarity": "C",
     "name": "EX Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/EXR-001_p2.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/EXR-001_p2.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
