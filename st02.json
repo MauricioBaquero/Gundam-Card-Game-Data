@@ -4,10 +4,6 @@
     "code": "ST02-001",
     "rarity": "LR",
     "name": "Wing Gundam",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-001.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-001.webp?250711"
-    },
     "level": "6",
     "cost": "4",
     "color": "Green",
@@ -27,10 +23,6 @@
     "code": "ST02-001-p1",
     "rarity": "LR                +",
     "name": "Wing Gundam",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-001_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-001_p1.webp?250711"
-    },
     "level": "6",
     "cost": "4",
     "color": "Green",
@@ -50,10 +42,6 @@
     "code": "ST02-002",
     "rarity": "C",
     "name": "Wing Gundam (Bird Mode)",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-002.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-002.webp?250711"
-    },
     "level": "3",
     "cost": "3",
     "color": "Green",
@@ -73,10 +61,6 @@
     "code": "ST02-002-p1",
     "rarity": "C                +",
     "name": "Wing Gundam (Bird Mode)",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-002_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-002_p1.webp?250711"
-    },
     "level": "3",
     "cost": "3",
     "color": "Green",
@@ -96,10 +80,6 @@
     "code": "ST02-003",
     "rarity": "C",
     "name": "Gundam Heavyarms",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-003.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-003.webp?250711"
-    },
     "level": "5",
     "cost": "3",
     "color": "Green",
@@ -119,10 +99,6 @@
     "code": "ST02-003-p1",
     "rarity": "C                +",
     "name": "Gundam Heavyarms",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-003_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-003_p1.webp?250711"
-    },
     "level": "5",
     "cost": "3",
     "color": "Green",
@@ -142,10 +118,6 @@
     "code": "ST02-004",
     "rarity": "C",
     "name": "Gundam Sandrock",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-004.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-004.webp?250711"
-    },
     "level": "4",
     "cost": "2",
     "color": "Green",
@@ -165,10 +137,6 @@
     "code": "ST02-004-p1",
     "rarity": "C                +",
     "name": "Gundam Sandrock",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-004_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-004_p1.webp?250711"
-    },
     "level": "4",
     "cost": "2",
     "color": "Green",
@@ -188,10 +156,6 @@
     "code": "ST02-005",
     "rarity": "C",
     "name": "Maganac",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-005.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-005.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Green",
@@ -211,10 +175,6 @@
     "code": "ST02-005-p1",
     "rarity": "C                +",
     "name": "Maganac",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-005_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-005_p1.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Green",
@@ -234,10 +194,6 @@
     "code": "ST02-006",
     "rarity": "LR",
     "name": "Tallgeese",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-006.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-006.webp?250711"
-    },
     "level": "5",
     "cost": "4",
     "color": "Blue",
@@ -257,10 +213,6 @@
     "code": "ST02-006-p1",
     "rarity": "LR                +",
     "name": "Tallgeese",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-006_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-006_p1.webp?250711"
-    },
     "level": "5",
     "cost": "4",
     "color": "Blue",
@@ -280,10 +232,6 @@
     "code": "ST02-007",
     "rarity": "C",
     "name": "Leo",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-007.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-007.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Blue",
@@ -303,10 +251,6 @@
     "code": "ST02-007-p1",
     "rarity": "C                +",
     "name": "Leo",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-007_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-007_p1.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Blue",
@@ -326,10 +270,6 @@
     "code": "ST02-008",
     "rarity": "C",
     "name": "Aries",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-008.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-008.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Blue",
@@ -349,10 +289,6 @@
     "code": "ST02-008-p1",
     "rarity": "C                +",
     "name": "Aries",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-008_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-008_p1.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Blue",
@@ -372,10 +308,6 @@
     "code": "ST02-009",
     "rarity": "C",
     "name": "Tragos",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-009.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-009.webp?250711"
-    },
     "level": "1",
     "cost": "1",
     "color": "Blue",
@@ -395,10 +327,6 @@
     "code": "ST02-009-p1",
     "rarity": "C                +",
     "name": "Tragos",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-009_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-009_p1.webp?250711"
-    },
     "level": "1",
     "cost": "1",
     "color": "Blue",
@@ -418,10 +346,6 @@
     "code": "ST02-010",
     "rarity": "C",
     "name": "Heero Yuy",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-010.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-010.webp?250711"
-    },
     "level": "4",
     "cost": "1",
     "color": "Green",
@@ -441,10 +365,6 @@
     "code": "ST02-010-p1",
     "rarity": "C                +",
     "name": "Heero Yuy",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-010_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-010_p1.webp?250711"
-    },
     "level": "4",
     "cost": "1",
     "color": "Green",
@@ -464,10 +384,6 @@
     "code": "ST02-011",
     "rarity": "C",
     "name": "Zechs Merquise",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-011.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-011.webp?250711"
-    },
     "level": "5",
     "cost": "1",
     "color": "Blue",
@@ -487,10 +403,6 @@
     "code": "ST02-011-p1",
     "rarity": "C                +",
     "name": "Zechs Merquise",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-011_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-011_p1.webp?250711"
-    },
     "level": "5",
     "cost": "1",
     "color": "Blue",
@@ -510,10 +422,6 @@
     "code": "ST02-012",
     "rarity": "C",
     "name": "Simultaneous Fire",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-012.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-012.webp?250711"
-    },
     "level": "4",
     "cost": "1",
     "color": "Green",
@@ -533,10 +441,6 @@
     "code": "ST02-012-p1",
     "rarity": "C                +",
     "name": "Simultaneous Fire",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-012_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-012_p1.webp?250711"
-    },
     "level": "4",
     "cost": "1",
     "color": "Green",
@@ -556,10 +460,6 @@
     "code": "ST02-013",
     "rarity": "C",
     "name": "Peaceful Timbre",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-013.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-013.webp?250711"
-    },
     "level": "4",
     "cost": "1",
     "color": "Green",
@@ -579,10 +479,6 @@
     "code": "ST02-013-p1",
     "rarity": "C                +",
     "name": "Peaceful Timbre",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-013_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-013_p1.webp?250711"
-    },
     "level": "4",
     "cost": "1",
     "color": "Green",
@@ -602,10 +498,6 @@
     "code": "ST02-014",
     "rarity": "C",
     "name": "Siege Ploy",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-014.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-014.webp?250711"
-    },
     "level": "3",
     "cost": "1",
     "color": "Blue",
@@ -625,10 +517,6 @@
     "code": "ST02-014-p1",
     "rarity": "C                +",
     "name": "Siege Ploy",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-014_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-014_p1.webp?250711"
-    },
     "level": "3",
     "cost": "1",
     "color": "Blue",
@@ -648,10 +536,6 @@
     "code": "ST02-015",
     "rarity": "C",
     "name": "Saint Gabriel Institute",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-015.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-015.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Green",
@@ -671,10 +555,6 @@
     "code": "ST02-015-p1",
     "rarity": "C                +",
     "name": "Saint Gabriel Institute",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-015_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-015_p1.webp?250711"
-    },
     "level": "2",
     "cost": "2",
     "color": "Green",
@@ -694,10 +574,6 @@
     "code": "ST02-016",
     "rarity": "C",
     "name": "Corsica Base",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-016.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-016.webp?250711"
-    },
     "level": "3",
     "cost": "3",
     "color": "Blue",
@@ -717,10 +593,6 @@
     "code": "ST02-016-p1",
     "rarity": "C                +",
     "name": "Corsica Base",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/ST02-016_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/ST02-016_p1.webp?250711"
-    },
     "level": "3",
     "cost": "3",
     "color": "Blue",
@@ -740,10 +612,6 @@
     "code": "T-004",
     "rarity": "C",
     "name": "Leo",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/T-004.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/T-004.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -763,10 +631,6 @@
     "code": "T-005",
     "rarity": "C",
     "name": "Tallgeese",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/T-005.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/T-005.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -786,10 +650,6 @@
     "code": "R-001-p1",
     "rarity": "C",
     "name": "Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/R-001_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/R-001_p1.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -809,10 +669,6 @@
     "code": "EXB-001-p1",
     "rarity": "C",
     "name": "EX Base",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/EXB-001_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/EXB-001_p1.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
@@ -832,10 +688,6 @@
     "code": "EXR-001-p1",
     "rarity": "C",
     "name": "EX Resource",
-    "images": {
-      "small": "https://www.gundam-gcg.com/en/images/cards/card/EXR-001_p1.webp?250711",
-      "large": "https://www.gundam-gcg.com/en/images/cards/card/EXR-001_p1.webp?250711"
-    },
     "level": "-",
     "cost": "-",
     "color": "-",
