@@ -21,7 +21,7 @@
   {
     "id": "ST04-001-p1",
     "code": "ST04-001-p1",
-    "rarity": "LR                +",
+    "rarity": "LR+",
     "name": "Aile Strike Gundam",
     "level": "5",
     "cost": "4",
@@ -59,7 +59,7 @@
   {
     "id": "ST04-002-p1",
     "code": "ST04-002-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Strike Gundam",
     "level": "4",
     "cost": "2",
@@ -97,7 +97,7 @@
   {
     "id": "ST04-003-p1",
     "code": "ST04-003-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Moebius Zero",
     "level": "3",
     "cost": "2",
@@ -135,7 +135,7 @@
   {
     "id": "ST04-004-p1",
     "code": "ST04-004-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Moebius",
     "level": "1",
     "cost": "1",
@@ -173,7 +173,7 @@
   {
     "id": "ST04-005-p1",
     "code": "ST04-005-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Strike Dagger",
     "level": "2",
     "cost": "2",
@@ -211,7 +211,7 @@
   {
     "id": "ST04-006-p1",
     "code": "ST04-006-p1",
-    "rarity": "LR                +",
+    "rarity": "LR+",
     "name": "Aegis Gundam",
     "level": "4",
     "cost": "3",
@@ -249,7 +249,7 @@
   {
     "id": "ST04-007-p1",
     "code": "ST04-007-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Aegis Gundam (MA Mode)",
     "level": "4",
     "cost": "3",
@@ -287,7 +287,7 @@
   {
     "id": "ST04-008-p1",
     "code": "ST04-008-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Ginn",
     "level": "2",
     "cost": "1",
@@ -325,7 +325,7 @@
   {
     "id": "ST04-009-p1",
     "code": "ST04-009-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Miguel's Ginn",
     "level": "2",
     "cost": "2",
@@ -363,7 +363,7 @@
   {
     "id": "ST04-010-p1",
     "code": "ST04-010-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Kira Yamato",
     "level": "4",
     "cost": "1",
@@ -401,7 +401,7 @@
   {
     "id": "ST04-011-p1",
     "code": "ST04-011-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Athrun Zala",
     "level": "4",
     "cost": "1",
@@ -439,7 +439,7 @@
   {
     "id": "ST04-012-p1",
     "code": "ST04-012-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Striker Pack",
     "level": "4",
     "cost": "2",
@@ -477,7 +477,7 @@
   {
     "id": "ST04-013-p1",
     "code": "ST04-013-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Hawk of Endymion",
     "level": "2",
     "cost": "1",
@@ -515,7 +515,7 @@
   {
     "id": "ST04-014-p1",
     "code": "ST04-014-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "The Magic Bullet of Dusk",
     "level": "3",
     "cost": "1",
@@ -553,7 +553,7 @@
   {
     "id": "ST04-015-p1",
     "code": "ST04-015-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Archangel",
     "level": "3",
     "cost": "1",
@@ -591,7 +591,7 @@
   {
     "id": "ST04-016-p1",
     "code": "ST04-016-p1",
-    "rarity": "C                +",
+    "rarity": "C+",
     "name": "Vesalius",
     "level": "3",
     "cost": "1",
