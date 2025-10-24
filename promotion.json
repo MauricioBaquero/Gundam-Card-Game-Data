@@ -14,6 +14,7 @@
     "link": "-",
     "ap": "-",
     "hp": "-",
+    "is_deck_countable": false,
     "sourceTitle": "Mobile Suit Gundam Wing",
     "getIt": "Edition Beta BANDAI TCG+ Store Trial Event",
     "set": { "id": "promotion", "name": "Promotion" }
@@ -33,6 +34,7 @@
     "link": "-",
     "ap": "-",
     "hp": "-",
+    "is_deck_countable": false,
     "sourceTitle": "Mobile Suit Gundam",
     "getIt": "Resource pack",
     "set": { "id": "promotion", "name": "Promotion" }
@@ -52,6 +54,7 @@
     "link": "-",
     "ap": "-",
     "hp": "3",
+    "is_deck_countable": false,
     "sourceTitle": "Mobile Suit Gundam",
     "getIt": "Edition Beta Early Trial Event, other events",
     "set": { "id": "promotion", "name": "Promotion" }
@@ -71,6 +74,7 @@
     "link": "-",
     "ap": "-",
     "hp": "3",
+    "is_deck_countable": false,
     "sourceTitle": "Mobile Suit Gundam SEED",
     "getIt": "Official Card Case Set 01",
     "set": { "id": "promotion", "name": "Promotion" }
@@ -90,6 +94,7 @@
     "link": "-",
     "ap": "-",
     "hp": "-",
+    "is_deck_countable": false,
     "sourceTitle": "Mobile Suit Gundam Wing",
     "getIt": "GAMA Expo 2025, other events",
     "set": { "id": "promotion", "name": "Promotion" }
@@ -109,6 +114,7 @@
     "link": "-",
     "ap": "-",
     "hp": "-",
+    "is_deck_countable": false,
     "sourceTitle": "Mobile Suit Gundam SEED",
     "getIt": "Official Card Case Set 01",
     "set": { "id": "promotion", "name": "Promotion" }
@@ -128,6 +134,7 @@
     "link": "-",
     "ap": "-",
     "hp": "-",
+    "is_deck_countable": false,
     "sourceTitle": "Mobile Suit Gundam the Witch from Mercury",
     "getIt": "Gen Con 2025",
     "set": { "id": "promotion", "name": "Promotion" }
